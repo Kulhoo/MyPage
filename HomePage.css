@@ -1,0 +1,14 @@
+.navbar{
+    background-color:darkblue;
+}
+.nav-link,
+.navbar-brand{
+    color: white;
+}
+.navbar-collapse{
+    justify-content:flex-end;
+}
+.footer{
+    background-color: #222;
+    color: white;
+}
